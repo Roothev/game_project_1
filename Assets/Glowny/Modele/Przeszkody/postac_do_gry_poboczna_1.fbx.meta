@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 933b6f9236e324e4da338c93d3045452
+timeCreated: 1487282130
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armatura
+    100002: chest
+    100004: foot.L
+    100006: foot.R
+    100008: head
+    100010: head_end
+    100012: head_end_end
+    100014: heel.02.L
+    100016: heel.02.L_end
+    100018: heel.02.L_end_end
+    100020: heel.02.R
+    100022: heel.02.R_end
+    100024: heel.02.R_end_end
+    100026: heel.L
+    100028: heel.R
+    100030: hips
+    100032: neck
+    100034: //RootNode
+    100036: shin.L
+    100038: shin.R
+    100040: shoulder.L
+    100042: shoulder.R
+    100044: Sphere.002
+    100046: spine
+    100048: thigh.L
+    100050: thigh.R
+    100052: toe.L
+    100054: toe.L_end
+    100056: toe.L_end_end
+    100058: toe.R
+    100060: toe.R_end
+    100062: toe.R_end_end
+    100064: upper_arm.L
+    100066: upper_arm.L.001
+    100068: upper_arm.L.002
+    100070: upper_arm.L.002_end
+    100072: upper_arm.R
+    100074: upper_arm.R.001
+    100076: upper_arm.R.002
+    100078: upper_arm.R.002_end
+    400000: armatura
+    400002: chest
+    400004: foot.L
+    400006: foot.R
+    400008: head
+    400010: head_end
+    400012: head_end_end
+    400014: heel.02.L
+    400016: heel.02.L_end
+    400018: heel.02.L_end_end
+    400020: heel.02.R
+    400022: heel.02.R_end
+    400024: heel.02.R_end_end
+    400026: heel.L
+    400028: heel.R
+    400030: hips
+    400032: neck
+    400034: //RootNode
+    400036: shin.L
+    400038: shin.R
+    400040: shoulder.L
+    400042: shoulder.R
+    400044: Sphere.002
+    400046: spine
+    400048: thigh.L
+    400050: thigh.R
+    400052: toe.L
+    400054: toe.L_end
+    400056: toe.L_end_end
+    400058: toe.R
+    400060: toe.R_end
+    400062: toe.R_end_end
+    400064: upper_arm.L
+    400066: upper_arm.L.001
+    400068: upper_arm.L.002
+    400070: upper_arm.L.002_end
+    400072: upper_arm.R
+    400074: upper_arm.R.001
+    400076: upper_arm.R.002
+    400078: upper_arm.R.002_end
+    4300000: Sphere.002
+    7400000: armatura|Machanie
+    9500000: //RootNode
+    13700000: Sphere.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: armatura|Machanie
+      takeName: armatura|Machanie
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: armatura
+        weight: 1
+      - path: armatura/hips
+        weight: 1
+      - path: armatura/hips/spine
+        weight: 1
+      - path: armatura/hips/spine/chest
+        weight: 1
+      - path: armatura/hips/spine/chest/neck
+        weight: 1
+      - path: armatura/hips/spine/chest/neck/head
+        weight: 1
+      - path: armatura/hips/spine/chest/neck/head/head_end
+        weight: 1
+      - path: armatura/hips/spine/chest/neck/head/head_end/head_end_end
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.L
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.L/upper_arm.L
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.L/upper_arm.L/upper_arm.L.001
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.L/upper_arm.L/upper_arm.L.001/upper_arm.L.002
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.L/upper_arm.L/upper_arm.L.001/upper_arm.L.002/upper_arm.L.002_end
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.R
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.R/upper_arm.R
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.R/upper_arm.R/upper_arm.R.001
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.R/upper_arm.R/upper_arm.R.001/upper_arm.R.002
+        weight: 1
+      - path: armatura/hips/spine/chest/shoulder.R/upper_arm.R/upper_arm.R.001/upper_arm.R.002/upper_arm.R.002_end
+        weight: 1
+      - path: armatura/hips/thigh.L
+        weight: 1
+      - path: armatura/hips/thigh.L/shin.L
+        weight: 1
+      - path: armatura/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: armatura/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: armatura/hips/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: armatura/hips/thigh.L/shin.L/foot.L/toe.L/toe.L_end/toe.L_end_end
+        weight: 1
+      - path: armatura/hips/thigh.L/shin.L/heel.L
+        weight: 1
+      - path: armatura/hips/thigh.L/shin.L/heel.L/heel.02.L
+        weight: 1
+      - path: armatura/hips/thigh.L/shin.L/heel.L/heel.02.L/heel.02.L_end
+        weight: 1
+      - path: armatura/hips/thigh.L/shin.L/heel.L/heel.02.L/heel.02.L_end/heel.02.L_end_end
+        weight: 1
+      - path: armatura/hips/thigh.R
+        weight: 1
+      - path: armatura/hips/thigh.R/shin.R
+        weight: 1
+      - path: armatura/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: armatura/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: armatura/hips/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: armatura/hips/thigh.R/shin.R/foot.R/toe.R/toe.R_end/toe.R_end_end
+        weight: 1
+      - path: armatura/hips/thigh.R/shin.R/heel.R
+        weight: 1
+      - path: armatura/hips/thigh.R/shin.R/heel.R/heel.02.R
+        weight: 1
+      - path: armatura/hips/thigh.R/shin.R/heel.R/heel.02.R/heel.02.R_end
+        weight: 1
+      - path: armatura/hips/thigh.R/shin.R/heel.R/heel.02.R/heel.02.R_end/heel.02.R_end_end
+        weight: 1
+      - path: Sphere.002
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

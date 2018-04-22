@@ -1,0 +1,9 @@
+﻿[Ruda]: Znów się spóźniłaś do szkoły. Wstyd, ale czego spodziewać się po dziewczynie ze wsi...
+[Bohaterka]: Nie mam czasu na kłótnie z Tobą. Dlaczego tylko my jesteśmy w szkole?
+[Ruda]: Pani Nauczycielka zachorowała, nie mamy dzisiaj zajęć.
+[Bohaterka]: W takim razie ide do domu.
+[Ruda]: Czekaj! Obie w tym tygodniu miałyśmy zajmować się klasą. Ja już swoją robotę wykonałam.
+[Ruda]: Ty za to posprzątaj wszystkie porozrzucane zeszyty.
+[Bohaterka]: Myślisz, że Cię posłucham? Idę do domu.
+[Ruda]: Wiedziałam, że mnie z tym zostawisz dlatego zamknęłam za Tobą drzwi.
+[Ruda]: Nie dostaniesz klucza jeśli mi nie pomożesz.

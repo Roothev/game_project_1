@@ -1,0 +1,36 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6658)
+    Vendor:   ATI
+    VRAM:     2032 MB
+    Driver:   13.200.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity_3D\Praca_Inzynierska\Praca_Inzynierska\gra\gra_Data\Managed\System.dll (this message is harmless)
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.113716 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 16d0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.203413 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1135.
+Total: 0.429065 ms (FindLiveObjects: 0.092368 ms CreateObjectMapping: 0.022843 ms MarkObjects: 0.283726 ms  DeleteObjects: 0.029465 ms)
+
